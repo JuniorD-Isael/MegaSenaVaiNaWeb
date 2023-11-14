@@ -17,7 +17,7 @@ public class Main {
         System.out.println("Vamos revelar o resultado:\n" +
                 "-------------");
 
-        switch (acertos) {ex
+        switch (acertos) {
             case 5: {
                 System.out.printf("Você acertou %d numeros\n", acertos);
                 System.out.println("Voce ganhou o premio de 10 mil reais");
